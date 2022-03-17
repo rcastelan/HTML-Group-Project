@@ -1,6 +1,4 @@
-
 # Dynamic Personal Profile
-
 
 ## Table Of Contents:
 - [Description](#Description)
@@ -11,13 +9,13 @@
 
 ## Description
 
-This site will provide a general idea of what I am able to accomplish with the use of HTML, CSS and JavaScript to produce a dynamic, responsive site. 
+This site is a car comparison website that will provide a general idea of what I am able to accomplish with the use of HTML and CSS. 
 
 ## Deployment: 
 
-GitHub Repo: https://github.com/al-moreno/se-moreno
+GitHub Repo: https://github.com/rcastelan/HTML-Group-Project
 
-GitHub Pages: https://al-moreno.github.io/se-moreno/
+GitHub Pages: https://rcastelan.github.io/HTML-Group_Project/ 
 
 ![picture](./assets/images/1.png)
 
