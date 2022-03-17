@@ -15,7 +15,7 @@ This site is a car comparison website that will provide a general idea of what I
 
 GitHub Repo: https://github.com/rcastelan/HTML-Group-Project
 
-GitHub Pages: https://rcastelan.github.io/HTML-Group_Project/ 
+GitHub Pages: https://rcastelan.github.io/HTML-Group-Project/ 
 
 ![picture](./assets/images/1.png)
 
