@@ -1,0 +1,51 @@
+
+/* grid layout */
+.header {
+    grid-area: header;
+  }
+
+  .item-b {
+    grid-area: main;
+  }
+
+  .nav {
+    grid-area: nav;
+  }
+
+  .footer{
+    grid-area: footer;
+  }
+  
+  .container {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    grid-template-rows: auto;
+    grid-template-areas: 
+      "header header header header"
+      "nav . . . "
+      "nav . . . "
+      "nav . . . "
+      "footer footer footer footer";
+      
+  }
+
+  .footer ul {
+    list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background-color: black;
+  }
+  
+
+.footer li{
+    list-style-type: none; 
+    display: inline-block;
+    font-size: 20px;
+    padding: 20px;
+}
+
+.footer a{
+    color: white;
+    text-decoration: none;
+}
